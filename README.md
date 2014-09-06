@@ -1,3 +1,5 @@
+###### Please note that this is my own work (dnlbrky).  I took this class several months ago, and am taking it again through the Signature Track.
+
 ## Introduction
 
 This assignment uses data from
